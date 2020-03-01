@@ -10,11 +10,11 @@ function App() {
       <header className="App-header">
         <HeaderComponent />
       </header>
-      <body>
+
       <div className="App-body">
         <Carousel />
       </div>
-      </body>
+
       <footer className="App-footer">
         <FooterComponent />
       </footer>
