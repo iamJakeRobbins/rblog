@@ -8,7 +8,6 @@ function App() {
       <header className="App-header">
       </header>
       <body>
-      <h1>hello world</h1>
       <Carousel />
       </body>
     </div>
