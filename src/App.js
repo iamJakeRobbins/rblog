@@ -13,7 +13,7 @@ function App() {
       <body>
       <Carousel />
       </body>
-      <footer>
+      <footer className="App-footer">
         <FooterComponent />
       </footer>
     </div>
