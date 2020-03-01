@@ -11,7 +11,9 @@ function App() {
         <HeaderComponent />
       </header>
       <body>
-      <Carousel />
+      <div className="App-body">
+        <Carousel />
+      </div>
       </body>
       <footer className="App-footer">
         <FooterComponent />
